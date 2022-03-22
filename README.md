@@ -23,4 +23,5 @@ adjust lists that are passed to simulation function accordigly
 
 ------------------------
 
-
+kyriakos.flouris@cantab.net
+kflouris@ethz.ch
