@@ -20,6 +20,7 @@ Medical imaging quantitative features were once considered untrustworthy in clin
 run ctsim_main.py with python on gpu,
 
 adjust lists that are passed to simulation function accordigly 
+takes a nifti image as input (or dicom) and outputs variable nifty images (=number of total variations)
 
 ------------------------
 
